@@ -1,0 +1,25 @@
+export default function () {
+  return[
+    {
+      id:1,
+      first:'abhishek',
+      last:'pandey',
+      age:23,
+      class:'redux'
+    },
+    {
+      id:2,
+      first:'shek',
+      last:'pandey',
+      age:24,
+      class:'redux'
+    },
+    {
+      id:3,
+      first:'abhi',
+      last:'pandey',
+      age:25,
+      class:'redux'
+    }
+  ]
+}
